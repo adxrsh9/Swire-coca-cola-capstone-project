@@ -46,16 +46,19 @@ Highlight breakdown trends over time and across production locations.
 Analyze downtime patterns for functional area nodes and equipment types.
 Showcase feature importance, revealing critical factors influencing machine breakdowns.
 Delivered visual insights that facilitated effective communication of findings, enabling stakeholders to identify high-priority maintenance areas.
+
 **2. Modeling Techniques Investigation**
 Conducted in-depth research on suitable modeling approaches for predictive maintenance, including:
 Linear Regression: Used as a baseline for simple relationships.
 Random Forest and XGBoost: Explored for their robustness in feature selection and non-linear relationships.
 LightGBM: Investigated for its efficiency with large datasets.
 Evaluated model performance and interpretability to recommend techniques that align with Swire Coca-Cola’s operational needs.
+
 **3. Feature Importance and Insights**
 Performed feature importance analysis using advanced methods like tree-based models to identify key predictors of downtime.
 Investigated time between failures for equipment categories, pinpointing fillers and packers as the most failure-prone.
 Analyzed seasonal and location-based trends to provide targeted maintenance recommendations.
+
 **4. Interpretation and Documentation**
 Interpreted data patterns and modeling outcomes to generate actionable insights, such as prioritizing maintenance for high-risk equipment.
 Proofread the final report to ensure accuracy, clarity, and a coherent narrative for both technical and non-technical audiences.
