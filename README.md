@@ -135,16 +135,33 @@ Despite these challenges, the team successfully navigated these hurdles through 
 
 ## What I Learned in the Project
 
-This project provided invaluable learning experiences, including:
+This project offered a wealth of learning opportunities, both technical and practical. **Key takeaways include**:
 
-- **Technical Proficiency**:
-  - Strengthened expertise in data visualization, feature engineering, and model evaluation techniques.
-  - Gained hands-on experience with tree-based algorithms and their applications in predictive maintenance.
+1. **Advanced Data Analysis Techniques**:
+   - Gained hands-on experience with exploring large datasets, identifying patterns, and uncovering critical insights.
+   - The univariate, bivariate, and multivariate analyses performed were instrumental in shaping actionable strategies for maintenance optimization.
 
-- **Problem-Solving and Collaboration**:
-  - Improved teamwork skills and the ability to communicate technical insights effectively.
-  - Adapted to challenges like missing data and resource limitations by leveraging innovative strategies.
+2. **Feature Engineering Expertise**:
+   - Learned the importance of crafting meaningful features, such as time between failures, seasonal trends, and functional node performance metrics, to enhance the interpretability and effectiveness of predictive models.
 
-- **Business Context**:
-  - Developed a deeper understanding of how operational inefficiencies impact business performance.
-  - Learned to align technical outputs with actionable business recommendations.
+3. **Visualization for Insight Generation**:
+   - Developed expertise in creating clear, impactful visualizations that not only communicated complex findings effectively but also guided the decision-making process for stakeholders.
+
+4. **Problem-Solving in Data Challenges**:
+   - Tackled challenges such as handling missing data and outliers without compromising data integrity.
+   - The experience reinforced the significance of maintaining precision in industrial datasets for reliability.
+
+5. **Collaboration and Communication**:
+   - Improved teamwork and coordination skills, ensuring seamless integration of individual contributions into a cohesive project.
+   - Enhanced my ability to translate technical findings into business-centric recommendations, bridging the gap between data science and operational strategies.
+
+6. **Understanding Operational Dynamics**:
+   - Developed a deeper appreciation for how machine downtime impacts production flow and overall business performance.
+   - This understanding was critical in aligning technical solutions with Swire Coca-Cola's strategic objectives.
+
+7. **Foundations of Predictive Maintenance**:
+   - Gained valuable insight into predictive maintenance methodologies, setting the groundwork for further exploration of advanced predictive techniques and automation in industrial operations.
+
+8. **Strategic Thinking for Business Impact**:
+   - Learned to think beyond technical analysis by focusing on actionable solutions that align with long-term business goals, such as transitioning from reactive to proactive maintenance.
+
