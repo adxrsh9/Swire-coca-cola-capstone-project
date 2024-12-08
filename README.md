@@ -169,6 +169,6 @@ This project offered a wealth of learning opportunities, both technical and prac
 [presentation Link](https://github.com/adxrsh9/Swire-coco-cola-capstone-project/blob/main/SWIRE%20PPT_GROUP_8.pptx)
 
 ## Project file link
-[Project File](https://github.com/adxrsh9/Swire-coco-cola-capstone-project/blob/main/Swire_Coca_Cola_Capstone_Modeling_Group_8_Final%20(3).html)
+[Project File](https://github.com/adxrsh9/Swire-coco-cola-capstone-project/blob/main/Swire_Coca_Cola_Capstone_Modeling_Group_8_Final%20(1).ipynb)
 
 
