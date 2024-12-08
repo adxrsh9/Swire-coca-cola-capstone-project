@@ -80,9 +80,11 @@ As a core contributor, I played a pivotal role in **data analysis, visualization
 
 ### **3. Feature Importance and Insights**
 
-- Performed feature importance analysis using advanced methods like tree-based models to identify key predictors of downtime.
-- Investigated time between failures for equipment categories, pinpointing **fillers and packers** as the most failure-prone.
-- Analyzed seasonal and location-based trends to provide targeted maintenance recommendations.
+- Key Downtime Drivers: Identified production location, maintenance type, and functional area nodes as critical predictors of downtime.
+- Equipment-Specific Analysis: Found Fillers and Packers to be the most breakdown-prone equipment, highlighting the need for targeted maintenance.
+- Seasonal and Failure Patterns: Revealed seasonal maintenance trends and patterns in failure rates, enabling optimized scheduling.
+- Equipment Age Insights: Demonstrated that equipment age alone is not a direct predictor of downtime, emphasizing the need to analyze interactions with maintenance types.
+- Granular Failure Analysis: Investigated functional area nodes and time-between-failures data, uncovering high-risk zones requiring immediate intervention.
 
 ### **4. Interpretation and Documentation**
 
@@ -96,10 +98,20 @@ As a core contributor, I played a pivotal role in **data analysis, visualization
 
 The proposed solution provided Swire Coca-Cola with actionable strategies to reduce downtime and improve operational efficiency. **Key impacts include**:
 
-- **Enhanced Predictive Capabilities**: Insights into high-risk periods and equipment enable better planning and proactive interventions.
-- **Cost Savings**: A **5.6% reduction in downtime** translates to approximately **10.7 million additional cases annually**, significantly boosting productivity.
-- **Operational Efficiency**: Prioritized maintenance and resource allocation improve uptime, reduce delays, and enhance production stability.
+1. **Enhanced Maintenance Scheduling**:
+   - Tailored schedules based on insights from equipment and functional area analyses to reduce downtime.
 
+2. **Proactive Maintenance Adoption**:
+   - Recommended transitioning from reactive to preventive maintenance to improve equipment reliability and reduce breakdowns.
+
+3. **Optimized Resource Allocation**:
+   - Focused maintenance efforts on high-risk plants and nodes, such as G291 and compressors, to maximize impact.
+
+4. **Seasonal Maintenance Strategies**:
+   - Suggested aligning maintenance during low-demand periods to minimize disruptions during peak operational times.
+
+5. **Foundation for Predictive Systems**:
+   - Established a data-driven foundation for future predictive maintenance initiatives, aligning with long-term operational goals.
 ---
 
 ## Difficulties Encountered
