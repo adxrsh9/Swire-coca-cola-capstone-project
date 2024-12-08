@@ -64,28 +64,28 @@ Proofread the final report to ensure accuracy, clarity, and a coherent narrative
 # Business Value of the Solution
 The proposed solution provided Swire Coca-Cola with actionable strategies to reduce downtime and improve operational efficiency. Key impacts include:
 
- ## Enhanced Predictive Capabilities: Insights into high-risk periods and equipment enable better planning and proactive interventions.
+ ## Enhanced Predictive Capabilities: 
+ Insights into high-risk periods and equipment enable better planning and proactive interventions.
  
- ## Cost Savings: A 5.6% reduction in downtime translates to approximately $10.7 million additional cases annually, significantly boosting productivity.
+ ## Cost Savings: 
+ A 5.6% reduction in downtime translates to approximately $10.7 million additional cases annually, significantly boosting productivity.
  
- ## Operational Efficiency: Prioritized maintenance and resource allocation improve uptime, reduce delays, and enhance production stability.
+ ## Operational Efficiency: 
+ Prioritized maintenance and resource allocation improve uptime, reduce delays, and enhance production stability.
 
 
 # Difficulties Encountered
 The team faced several challenges during the project:
 
  ## Data Quality Issues:
-
 High percentages of missing data in critical variables (e.g., MAINTENANCE_PLAN had 89% missing values) complicated modeling efforts.
 Inconsistent documentation practices led to gaps in equipment lifecycle data.
 
  ## Modeling Complexities:
-
 Balancing model accuracy and interpretability to ensure actionable insights.
 Limited computational resources for testing advanced models and hyperparameter tuning.
 
  ## Resource Constraints:
-
 Time constraints posed challenges in conducting exhaustive analyses across multiple datasets and methodologies.
 Despite these challenges, the team successfully navigated these hurdles through robust feature engineering, careful selection of modeling techniques, and a focus on delivering high-value insights.
 
@@ -93,16 +93,13 @@ Despite these challenges, the team successfully navigated these hurdles through 
 This project provided invaluable learning experiences, including:
 
 ## Technical Proficiency:
-
 Strengthened expertise in data visualization, feature engineering, and model evaluation techniques.
 Gained hands-on experience with tree-based algorithms and their applications in predictive maintenance.
 
 ## Problem-Solving and Collaboration:
-
 Improved teamwork skills and the ability to communicate technical insights effectively.
 Adapted to challenges like missing data and resource limitations by leveraging innovative strategies.
 
 ## Business Context:
-
 Developed a deeper understanding of how operational inefficiencies impact business performance.
 Learned to align technical outputs with actionable business recommendations.
