@@ -19,7 +19,7 @@ The primary objective of this project was to analyze maintenance data, build pre
 
 ## Our Group’s Solution
 
-Our team employed the **CRISP-DM (Cross Industry Standard Process for Data Mining)** methodology to systematically address the problem. This framework guided the project through six structured phases:
+Our team employed the **CRISP-DM (Cross Industry Standard Process for Data Mining)** methodology to systematically address the problem. This framework guided the project through structured phases:
 
 ### 1. Data Understanding
 
@@ -90,7 +90,7 @@ As a core contributor, I played a pivotal role in **data analysis, visualization
 
 - Interpreted data patterns and modeling outcomes to generate actionable insights, such as:
   - Prioritizing maintenance for high-risk equipment.
-- Proofread the final report to ensure **accuracy, clarity, and a coherent narrative** for both technical and non-technical audiences.
+  - Proofread the final report to ensure **accuracy, clarity, and a coherent narrative** for both technical and non-technical audiences.
 
 ---
 
