@@ -165,3 +165,10 @@ This project offered a wealth of learning opportunities, both technical and prac
 8. **Strategic Thinking for Business Impact**:
    - Learned to think beyond technical analysis by focusing on actionable solutions that align with long-term business goals, such as transitioning from reactive to proactive maintenance.
 
+## Presentation Link
+[presentation Link](https://github.com/adxrsh9/Swire-coco-cola-capstone-project/blob/main/SWIRE%20PPT_GROUP_8.pptx)
+
+## Project file link
+[Project File](https://github.com/adxrsh9/Swire-coco-cola-capstone-project/blob/main/Swire_Coca_Cola_Capstone_Modeling_Group_8_Final%20(3).html)
+
+
